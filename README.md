@@ -21,8 +21,9 @@
 
 ```bash
 # setting up your system on linux based systems
-sudo apt install python3.7
-pip3 install jupyterlab
+sudo apt install python3 python3-pip
+#curl https://bootstrap.pypa.io/get-pip.py | python3  # for MAC users
+pip3 install jupyter
 pip3 install spacy nltk scikit-learn
 
 # run locally
