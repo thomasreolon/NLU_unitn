@@ -5,6 +5,24 @@
 
 ---
 
+## Assignment 2 (27/04/2021)
+
+**data**: CoNLL 2003 dataset was used to test spacy's performances. The notebook downloads it on its own.
+
+**code**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NMxRXwLViHGGofFFcz5Lu_DeGiAmWJwN?usp=sharing)
+
+**report**: [reports/Assignment2.pdf](reports/Assignment2.pdf)
+
+**execution**:
+
+```
+1.  open the notebook in google colab   --> https://colab.research.google.com/drive/1NMxRXwLViHGGofFFcz5Lu_DeGiAmWJwN
+2.  check to be using GPU environment (for appendix B)
+3.  run the notebook
+```
+
+---
+
 ## Assignment 1 (20/04/2021)
 
 **data**: no custom dataset was used. Some sentences have been used in the 1st part to test the functions, while nltk_treebank dataset was used for the second one.
